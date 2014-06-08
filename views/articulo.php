@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Detalle de Articulo</title>
+	<title>Detalle de Articulos</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
 	<style>
 		th {
