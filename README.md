@@ -1,3 +1,0 @@
-xox
-===
-Texto de prueba
