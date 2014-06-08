@@ -16,7 +16,7 @@
 		<header>
 		</header>
 		<article>
-			<h2 class="text-success">Articulos (Ingresados)</h2>
+			<h2 class="text-success">Articulos Ingresados</h2>
 			<table class="table table-hover table-bordered">
 				<tr>
 					<th>Usuario</th>
